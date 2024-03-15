@@ -1,0 +1,7 @@
+{
+  "name": "email-writer-ai-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
